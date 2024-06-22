@@ -40,12 +40,12 @@
 
 ## 🛠️ Skills
 - **Technical Skills**: Microsoft Power BI, MySQL, Basic Excel
-- **Soft Skills**: Team Leadership, Quick Learner, Hardworking
+- **Soft Skills**: Team Leadership, Quick Learner, Hardworking, Critical Thinking, Communication, Problem-Solving, Stakeholder Management
 
 ## 📫 Contact
 - **Email**: Vikasvaishnv46@gmail.com
 - **Phone**: 9784345912
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vikas-swami)
+- **LinkedIn**: (https://www.linkedin.com/in/vikas-swami-9b5502312)
 
 ## 📚 Education
 - **Higher Secondary**: Board of Secondary Education, Rajasthan
